@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Featured First\n"
+"POT-Creation-Date: 2017-06-13 23:05+0530\n"
+"PO-Revision-Date: 2017-06-13 23:05+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;_n;_x;_ex\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: featured-products-first-for-woocommerce.php:148
+msgid "Featured Products First "
+msgstr ""
+
+#: featured-products-first-for-woocommerce.php:149
+msgid "Enable Featured Products Listed First On Product Listing"
+msgstr ""
+
+#: featured-products-first-for-woocommerce.php:156
+msgid "Enable Featured Products First"
+msgstr ""
+
+#: featured-products-first-for-woocommerce.php:157
+msgid "Enable Featured Products First On Shop Page"
+msgstr ""
+
+#: featured-products-first-for-woocommerce.php:165
+msgid "Enable Featured Products First On Product Search"
+msgstr ""
+
+#: featured-products-first-for-woocommerce.php:173
+msgid "Enable Featured Products First On Archive Product Category"
+msgstr ""
+
+#: includes/widgets/class-wff-widget-fetured-product.php:23
+msgid "Display a list of fetaured products."
+msgstr ""
+
+#: includes/widgets/class-wff-widget-fetured-product.php:25
+msgid "WooCommerce Fetured Product"
+msgstr ""
+
+#: includes/widgets/class-wff-widget-fetured-product.php:29
+msgid "Featured Products"
+msgstr ""
+
+#: includes/widgets/class-wff-widget-fetured-product.php:30
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/class-wff-widget-fetured-product.php:38
+msgid "Number of products to show"
+msgstr ""
